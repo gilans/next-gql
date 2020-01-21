@@ -1,6 +1,6 @@
 {
   "name": "next-gql",
-  "version": "0.1.5",
+  "version": "0.1.15",
   "scripts": {
     "dev": "next -p 3010",
     "build": "next build",
