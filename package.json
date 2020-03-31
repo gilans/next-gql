@@ -19,7 +19,7 @@
     "js-cookie": "^2.2.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "next": "^6.0.0",
+    "next": "^9.3.3",
     "next-redux-wrapper": "^3.0.0-alpha.2",
     "node-sass": "^4.7.2",
     "prism-react-renderer": "^1.0.1",
